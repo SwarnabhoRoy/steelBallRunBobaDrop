@@ -1,0 +1,12 @@
+img{
+    width: 512px
+}
+body{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: goldenrod;
+    color: black;
+}
+h2{
+    color: goldenrod;
+}
